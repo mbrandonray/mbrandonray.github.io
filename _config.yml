@@ -52,7 +52,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 url-pretty: MyWebsite.com
 excerpt_length: 50
