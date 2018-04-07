@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
     show-avatar: true
-url: http://username.github.io
+url: http://mbrandonray.github.io
 baseurl: ''
 description: A virtual proof that name is awesome!
 navbar-links:
